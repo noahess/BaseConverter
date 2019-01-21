@@ -54,7 +54,7 @@ void convert_base(int n_in, int base, char* identifier) {
 }
 ```
 
-##Base Conversion
+## Base Conversion
 
 The big idea for the base conversion section is to loop through all digits and print out the digit required.
 
