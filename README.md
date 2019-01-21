@@ -1,5 +1,5 @@
 # Base Conversions in C
-This repo is one of the most painful and inefficient way to print a `signed int` in base 2 through 32.
+This repo is one of the most painful and inefficient ways to print a `signed int` in base 2 through 32.
 If the only external function allowable was `fputc` and everything in `math.h` was off-limits,
 what is a _"good"_ way to write base conversion code (optimizing for line length)? Without doing anything too insane, this is the result:
 
